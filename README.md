@@ -10,7 +10,7 @@ The main class, `UUiWidget`, is a User Widget that contains a button for uploadi
 
 ## Setup
 
-To use this project, you need to have Unreal Engine 5 installed on your machine.
+To use this project, you need to have Unreal Engine 5 installed on your machine. When creating the c++ class make it a UserWidget Class. Then reparent the widget in which you plan to use this function.
 
 ### Adding the Library
 
