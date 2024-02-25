@@ -23,6 +23,6 @@ PublicAdditionalLibraries.Add("Comdlg32.lib");
 
 You can use the UUiWidget class in your Unreal Engine 5 project to open a file dialog and get the path of a selected image. This can be useful for setting textures, loading images, and more.
 
-##License
+## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
